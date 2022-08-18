@@ -25,6 +25,9 @@ This script implements DES algorithm
 ```shell
 git clone https://github.com/favoursyre/DES.git && cd DES
 ```
+```shell
+pip install pycrypto
+```
 
 ## Run
 
